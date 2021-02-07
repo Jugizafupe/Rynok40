@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name acheronSymbols)(type Legacy)(uri ${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.lib)(options "")(descr ""))
+  (lib (name Unified-Daughterboard-rescue)(type Legacy)(uri ${KIPRJMOD}/Unified-Daughterboard-rescue.lib)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "${KISYSMOD}/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KISYSMOD}/Type-C.pretty-master/Type-C.lib)(options "")(descr ""))
+)
