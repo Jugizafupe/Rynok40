@@ -1,5 +1,0 @@
-(fp_lib_table
-  (lib (name MX_Only)(type KiCad)(uri /Rynok40/MX_Only.pretty)(options "")(descr ""))
-  (lib (name Alps_Only)(type KiCad)(uri /Rynok40/Alps_Only.pretty)(options "")(descr ""))
-  (lib (name random-keyboard-parts)(type KiCad)(uri /Rynok40/random-keyboard-parts.pretty)(options "")(descr ""))
-)
